@@ -21,7 +21,7 @@ Siamo aperti ai contributi della community! Se hai idee, suggerimenti o migliora
 
 ## 📞 Contatti
 
-Per ulteriori informazioni o domande, puoi contattarci tramite i nostri canali social o inviare un'email a social@cryptoverso.xyz.
+Per ulteriori informazioni o domande, puoi contattarci tramite i nostri canali social o inviare un'email a luigi@cryptoverso.xyz.
 
 ## 📄 Licenza
 
